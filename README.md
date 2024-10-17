@@ -51,7 +51,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://public.simplyblk.xyz/3.0.zip |
+| 3.0-CL-3901517	 	| 22-02-18	   	 | UE4.20-3901517	    |	https://public.simplyblk.xyz/3.0.zip |
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://public.simplyblk.xyz/3.1.rar|
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://public.simplyblk.xyz/3.1.1.zip|
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://public.simplyblk.xyz/3.2.zip|
